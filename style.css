@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=BhuTuka+Expanded+One&family=IBM+Plex+Serif:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+div {
+	margin: 30px auto;
+	padding: 10px 20px;
+	border-radius: 10px;
+	box-shadow: 1px 1px 1px rgb(228, 228, 228);
+	width: 80%;
+	background-color: rgb(248, 247, 243);
+}
+
+body {
+	background-image: url(https://cdn.manomano.com/tableau-nature-feuille-pour-salle-de-bain-tableau-sur-toile-plante-verte-sur-fond-blanc-tableau-moderne-feuillage-pour-entree-05-x-05-m-P-31911-49135466_1.jpg);
+}
+
+.margin-left {
+	margin-left: 15px;
+}
+
+h1 {
+	color: black;
+	font-family: 'Abril Fatface', cursive;
+	text-align: center;
+	background-color: #b1d3bb;
+}
+
+h2 {
+	color: black;
+	font-family: 'Abril Fatface', cursive;
+	text-align: center;
+	background-color: #b1d3bb;
+}
+
+h3 {
+
+	font-family: 'BhuTuka Expanded One', cursive;
+	color: black;
+	margin: 0;
+}
+
+p {
+	color: rgb(55, 53, 65);
+	font-family: 'IBM Plex Serif', serif;
+	text-align: center;
+}
+
+ul {
+	color: rgb(55, 53, 65);
+	font-family: 'IBM Plex Serif', serif;
+}
+
+.fa-brands {
+	font-size: 40px;
+	color: lightgray;
+	transition: 1s;
+}
+
+.fa-brands:hover{
+	color: black;
+	transition: 1s;
+}
+
+.img-circle {
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+	border-radius: 60%;
+	box-shadow: 5px 5px 5px rgb(165, 165, 167);
+}
+
+.btn_green {
+	color: rgb(55, 53, 65);
+	background-color: #b1d3bb;
+	padding: 6px 10px;
+	border-radius: 6px;
+	font-size: 13px;
+	box-shadow: 5px 5px 5px rgb(165, 165, 167);
+	display: block;
+	width: 50%;
+	transition: 1s;
+	margin: 10px;
+	text-align: center;
+}
+
+.btn_green:hover {
+	background-color: rgb(55, 53, 65);
+	color: #b1d3bb;
+	transition: 1s;
+}
+
+a {
+	text-decoration: none;
+	font-family: 'Abril Fatface', cursive;
+}
+
+.list-inline {
+padding: 0;
+list-style: none;
+text-align: center;
+}
+
+.list-inline li {
+	display: inline;
+	margin: 0 16px;
+}
+
+.text-size {
+	font-size: 13px;
+}
+
+.fa-solid {
+	font-size: 70px;
+	color: lightgray;
+	transition: 1s;
+}
+
+.fa-solid:hover {
+	color: black;
+	transition: 1s;
+}
+
+.text-center {
+	text-align: center;
+	font-size: 30px;
+}
+
+
+
+
+
